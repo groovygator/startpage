@@ -1,9 +1,9 @@
 :root {
-    --color-bg: #282828;
-    --color-fg: #EADBB2;
-    --color-link: #8F9191;
-    --color-link-visited: #668F8B;
-    --color-link-hover: #FA7921 ;
+    --color-bg: #1a1b26;
+    --color-fg: #13141c;
+    --color-link: #abb4db;
+    --color-link-visited: #765fa4;
+    --color-link-hover: #5b76b3 ;
 }
 
 html, body {
@@ -38,9 +38,9 @@ html, body {
   width: 100%;
 }
 
-.gif img {
-  max-width: 100%;
-  max-height: 100%;
+.jpeg img {
+  max-width: 20%;
+  max-height: 20%;
 }
 
 .head {
